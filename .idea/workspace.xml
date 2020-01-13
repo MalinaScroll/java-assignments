@@ -1,30 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="613aa73b-17f1-4b19-b4ad-415f098ea637" name="Default Changelist" comment="" />
+    <list default="true" id="613aa73b-17f1-4b19-b4ad-415f098ea637" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WKxM0CH5lw1uo3eYyt5oJs7XIg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="assignment 1" />
+      <option name="MAIN_CLASS_NAME" value="com.company.assignment1" />
+      <module name="assignments" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="assignments" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="assignments" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -57,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578912035065</updated>
-      <workItem from="1578912036673" duration="431000" />
+      <workItem from="1578912036673" duration="1004000" />
     </task>
     <servers />
   </component>
@@ -65,10 +121,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="63" y="28" key="CommitChangelistDialog2" timestamp="1578913207233">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="63" y="28" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1578913207233" />
     <state x="218" y="188" key="FileChooserDialogImpl" timestamp="1578912154436">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="218" y="188" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1578912154436" />
+    <state width="693" height="221" key="GridCell.Tab.0.bottom" timestamp="1578913055355">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="693" height="221" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1578913055355" />
+    <state width="693" height="221" key="GridCell.Tab.0.center" timestamp="1578913055355">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="693" height="221" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1578913055355" />
+    <state width="693" height="221" key="GridCell.Tab.0.left" timestamp="1578913055351">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="693" height="221" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1578913055351" />
+    <state width="693" height="221" key="GridCell.Tab.0.right" timestamp="1578913055355">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="693" height="221" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1578913055355" />
     <state x="109" y="132" key="NewModule_or_Project.wizard" timestamp="1578912470131">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
