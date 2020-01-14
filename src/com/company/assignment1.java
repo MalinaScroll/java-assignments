@@ -10,20 +10,24 @@ public class assignment1 {
 
         //assignment 1.2
         for (int i = 0; i < 5; i++) {
-            System.out.println("Java is geweldig!\n");
+            System.out.println("Java is geweldig!");
         }
+        System.out.println("\n");
 
         //assignment 1.3
         System.out.println("a   a^2  a^3  a^4 \n" + "1    1    1    1 \n" + "2    4    8    16 \n" + "3    9    27   81 \n" + "4    16   64   256\n");
 
         //assignment 1.4
-        System.out.println((7.5 * 6.5 - 4.5 * 3) / (47.5 * 5.5) + "\n");
+        double som = (7.5 * 6.5 - 4.5 * 3) / (47.5 * 5.5);
+        System.out.println(som + "\n");
 
         //assignment 1.5
-        System.out.println(1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +9 + 10 + "\n");
+        int counting = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 +9 + 10;
+        System.out.println(counting + "\n");
 
         //assignment 1.6
-        System.out.println(4 * (1 - 0.33 + 0.20 - 0.14 + 0.11 - 0.09 + 0.07) + "\n");
+        double nearPi = 4 * (1 - 1.0 / 3 + 1.0 / 5 - 1.0 / 7 + 1.0 / 9 - 1.0 / 11 + 1.0 / 13);
+        System.out.println(nearPi + "\n");
 
         // assignment 1.7
         double π = 3.14159;
