@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="613aa73b-17f1-4b19-b4ad-415f098ea637" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/assignment3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578912035065</updated>
       <workItem from="1578912036673" duration="9316000" />
-      <workItem from="1578998775547" duration="7269000" />
+      <workItem from="1578998775547" duration="7532000" />
     </task>
     <task id="LOCAL-00001" summary="renamed files">
       <created>1578913212272</created>
@@ -137,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578993930464</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished assignment 2">
+      <created>1579006383838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579006383838</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,13 +153,14 @@
     <MESSAGE value="edited some stuff" />
     <MESSAGE value="made 1.7 and 1.8 look better" />
     <MESSAGE value="Finished assignment 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished assignment 2" />
+    <MESSAGE value="Finished assignment 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished assignment 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="63" y="28" key="CommitChangelistDialog2" timestamp="1578993926179">
+    <state x="63" y="28" key="CommitChangelistDialog2" timestamp="1579006401334">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="63" y="28" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1578993926179" />
+    <state x="63" y="28" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1579006401334" />
     <state x="218" y="188" key="FileChooserDialogImpl" timestamp="1578912154436">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -179,14 +185,18 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="109" y="132" key="NewModule_or_Project.wizard/62.0.1474.864@62.0.1474.864" timestamp="1578912470131" />
+    <state x="577" y="155" key="RollbackChangesDialog" timestamp="1579006439495">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="577" y="155" key="RollbackChangesDialog/62.0.1474.864@62.0.1474.864" timestamp="1579006439495" />
     <state x="131" y="74" key="SettingsEditor" timestamp="1578912251126">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="131" y="74" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1578912251126" />
-    <state x="392" y="166" key="Vcs.Push.Dialog.v2" timestamp="1578993936035">
+    <state x="392" y="166" key="Vcs.Push.Dialog.v2" timestamp="1579006387341">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="392" y="166" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1578993936035" />
+    <state x="392" y="166" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1579006387341" />
     <state x="496" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1578998985860">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
