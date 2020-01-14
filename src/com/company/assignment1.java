@@ -32,12 +32,16 @@ public class assignment1 {
         // assignment 1.7
         double π = 3.14159;
         double straal = 6.5;
-        System.out.println("oppervlakte = " + straal * straal * π + "\n" + "omtrek = " + 2 * straal * π  + "\n");
+        double oppervlakte = straal * straal * π;
+        double omtrek = 2 * straal * π;
+        System.out.println("oppervlakte = " + oppervlakte + "\n" + "omtrek = " + omtrek + "\n");
 
         //assignment 1.8
         double lengte = 5.3;
         double breedte = 8.6;
-        System.out.println("oppervlakte = " + lengte * breedte + "\n" + "omtrek = " + 2 * ( lengte + breedte));
+        double oppervlakte2 = lengte * breedte;
+        double omtrek2 = 2 * ( lengte + breedte);
+        System.out.println("oppervlakte = " + oppervlakte2 + "\n" + "omtrek = " + omtrek2);
 
     }
 }
