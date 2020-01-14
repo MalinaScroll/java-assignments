@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="613aa73b-17f1-4b19-b4ad-415f098ea637" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/assignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/assignment3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +34,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.assignment2">
+  <component name="RunManager" selected="Application.assignment3">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.assignment1" />
       <module name="assignments" />
@@ -57,49 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration name="assignment3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.assignment3" />
       <module name="assignments" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="assignments" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,9 +74,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.assignment2" />
+      <item itemvalue="Application.assignment3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.assignment3" />
         <item itemvalue="Application.assignment2" />
         <item itemvalue="Application.Main" />
       </list>
@@ -137,7 +106,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578912035065</updated>
-      <workItem from="1578912036673" duration="9036000" />
+      <workItem from="1578912036673" duration="9316000" />
+      <workItem from="1578998775547" duration="7269000" />
     </task>
     <task id="LOCAL-00001" summary="renamed files">
       <created>1578913212272</created>
@@ -160,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578987633929</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finished assignment 2">
+      <created>1578993930464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578993930464</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,33 +147,34 @@
     <MESSAGE value="renamed files" />
     <MESSAGE value="edited some stuff" />
     <MESSAGE value="made 1.7 and 1.8 look better" />
-    <option name="LAST_COMMIT_MESSAGE" value="made 1.7 and 1.8 look better" />
+    <MESSAGE value="Finished assignment 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished assignment 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="63" y="28" key="CommitChangelistDialog2" timestamp="1578987629819">
+    <state x="63" y="28" key="CommitChangelistDialog2" timestamp="1578993926179">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="63" y="28" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1578987629819" />
+    <state x="63" y="28" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1578993926179" />
     <state x="218" y="188" key="FileChooserDialogImpl" timestamp="1578912154436">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="218" y="188" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1578912154436" />
-    <state width="1431" height="221" key="GridCell.Tab.0.bottom" timestamp="1578993796742">
+    <state width="1431" height="221" key="GridCell.Tab.0.bottom" timestamp="1579006285188">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="221" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1578993796742" />
-    <state width="1431" height="221" key="GridCell.Tab.0.center" timestamp="1578993796742">
+    <state width="1431" height="221" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1579006285188" />
+    <state width="1431" height="221" key="GridCell.Tab.0.center" timestamp="1579006285188">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="221" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1578993796742" />
-    <state width="1431" height="221" key="GridCell.Tab.0.left" timestamp="1578993796742">
+    <state width="1431" height="221" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1579006285188" />
+    <state width="1431" height="221" key="GridCell.Tab.0.left" timestamp="1579006285187">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="221" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1578993796742" />
-    <state width="1431" height="221" key="GridCell.Tab.0.right" timestamp="1578993796742">
+    <state width="1431" height="221" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1579006285187" />
+    <state width="1431" height="221" key="GridCell.Tab.0.right" timestamp="1579006285188">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="221" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1578993796742" />
+    <state width="1431" height="221" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1579006285188" />
     <state x="109" y="132" key="NewModule_or_Project.wizard" timestamp="1578912470131">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -205,10 +183,14 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="131" y="74" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1578912251126" />
-    <state x="392" y="166" key="Vcs.Push.Dialog.v2" timestamp="1578987639136">
+    <state x="392" y="166" key="Vcs.Push.Dialog.v2" timestamp="1578993936035">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="392" y="166" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1578987639136" />
+    <state x="392" y="166" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1578993936035" />
+    <state x="496" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1578998985860">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="496" y="258" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1578998985860" />
     <state x="609" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578987588491">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
