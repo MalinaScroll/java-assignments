@@ -60,7 +60,7 @@ public class assignment5 {
         System.out.println("Insert a number to show its table");
         int tableNum = scanner.nextInt();
         System.out.println("This is table of " + tableNum);
-        for (int i = 1; i < 11 ; i++) {
+        for (int i = 1; i < 11; i++) {
             int multiply = i * tableNum;
             System.out.println(i + " x " + tableNum + " = " + multiply + "\n");
         }
@@ -82,15 +82,17 @@ public class assignment5 {
         System.out.println("The lowest number is " + lowNum + "\n");
 
         //assignment 5.5
-            System.out.println("Assignment 5.5");
-            double highGrade = 0;
-            String student = "unknown";
-            for (int i = 1; i <= 5; i++) {
-                System.out.println("What is student " + i + "'s name?");
-                String name = scanner.nextLine();
-                System.out.println("What is their grade?");
-                double grade = scanner.nextDouble();
-                scanner.nextLine();
+        System.out.println("Assignment 5.5");
+        double highGrade = 0;
+        String student = "unknown";
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("What is student " + i + "'s name?");
+            String name = scanner.nextLine();
+            System.out.println(name);
+            System.out.println("What is their grade?");
+            double grade = scanner.nextDouble();
+            System.out.println(grade);
+            scanner.nextLine();
             if (i == 0) {
                 highGrade = grade;
                 student = name;
@@ -106,7 +108,7 @@ public class assignment5 {
         //assignment 5.6
         System.out.println("Assignment 5.6");
         for (int i = 0; i <= 100; i++) {
-            if (i % 5 ==0) {
+            if (i % 5 == 0) {
                 System.out.println(i + " is dividable by 5");
             }
         }
