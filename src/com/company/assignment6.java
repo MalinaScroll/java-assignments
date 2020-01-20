@@ -50,18 +50,38 @@ public class assignment6 {
 //        number = scanner.nextInt();
 //        String day = decideDay(number);
 //        System.out.println("number " + number + " is for the day " + day + "\n");
+//
+//
+//        //assignment 6.6
+//        System.out.println("Assignment 6.6");
+//        System.out.print("Please insert a number: ");
+//        number = scanner.nextInt();
+//        boolean isEven = isEvenNumber(number);
+//
+//        if (isEven) {
+//            System.out.println("The number " + number + " is an even number\n");
+//        } else {
+//            System.out.println("The number " + number + " is not an even number\n");
+//        }
 
 
-        //assignment 6.6
-        System.out.println("Assignment 6.6");
-        System.out.print("Please insert a number: ");
-        number = scanner.nextInt();
-        boolean isEven = isEvenNumber(number);
+        //assignment 6.7
+        System.out.println("Assignment 6.7");
+        boolean loop = true;
 
-        if (isEven) {
-            System.out.println("The number " + number + " is an even number\n");
-        } else {
-            System.out.println("The number " + number + " is not an even number\n");
+        while (loop) {
+            System.out.print("Insert a number to check if it is prime: ");
+            number = scanner.nextInt();
+            if (number == -1) {
+                System.exit(0);
+            }
+            boolean isPrime = isPrimeNumber(number);
+
+            if (isPrime) {
+                System.out.println("The number " + number + " is a PRIME number, insert -1 to exit\n");
+            } else {
+                System.out.println("The number " + number + " is a COMPOSITE number, insert -1 to exit\n");
+            }
         }
     }
 
@@ -81,18 +101,45 @@ public class assignment6 {
 
     public static String decideDay(int daynumber) {
         String[] days = {"Invalid", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
-        if (daynumber <= 8 && daynumber >= 1) {
+        if (daynumber >= 8 && daynumber <= 1) {
             return "Invalid";
         } else {
             return days[daynumber];
         }
     }
 
-    public static boolean isEvenNumber (int number) {
+    public static boolean isEvenNumber(int number) {
         if (number % 2 == 0) {
             return true;
         } else {
             return false;
+        }
+    }
+
+    public static boolean isPrimeNumber(int number) {
+        if (number % 2 == 0) {
+            if (number == 2) {
+                return true;
+            } else {
+                return false;
+            }
+
+        } else if (number % 3 == 0) {
+            if (number == 3) {
+                return true;
+            } else {
+                return false;
+            }
+
+        } else if (number % 5 == 0) {
+            if (number == 5) {
+                return true;
+            } else {
+                return false;
+            }
+
+        } else {
+            return true;
         }
     }
 }
