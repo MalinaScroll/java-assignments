@@ -117,29 +117,13 @@ public class assignment6 {
     }
 
     public static boolean isPrimeNumber(int number) {
-        if (number % 2 == 0) {
-            if (number == 2) {
-                return true;
-            } else {
-                return false;
+        for (int i = 2; i < number; i++) {
+            for (int j = 2; j < number; j++) {
+                if (i * j == number) {
+                    return false;
+                }
             }
-
-        } else if (number % 3 == 0) {
-            if (number == 3) {
-                return true;
-            } else {
-                return false;
-            }
-
-        } else if (number % 5 == 0) {
-            if (number == 5) {
-                return true;
-            } else {
-                return false;
-            }
-
-        } else {
-            return true;
         }
+        return number != 0 && number != 1;
     }
 }
